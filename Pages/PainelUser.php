@@ -37,10 +37,10 @@
                             <a class="nav-link active text-light" aria-current="page" href="../index.php">Pagina Inicial</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-light" href="SobrePage.html">Sobre</a>
+                            <a class="nav-link text-light" href="SobrePage.php">Sobre</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-light" href="ContatoPage.html">Contato</a>
+                            <a class="nav-link text-light" href="ContatoPage.php">Contato</a>
                         </li>
                     </ul>
                 </div>
