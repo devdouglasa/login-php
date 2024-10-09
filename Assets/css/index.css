@@ -1,0 +1,27 @@
+html, body {
+
+    background: linear-gradient(90deg, #0a7c71 0%, #000000 100%);
+    color: #fff;
+
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+.main {
+    height: 90vh;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
