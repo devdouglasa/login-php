@@ -2,8 +2,8 @@
 
 
 $DBHOST = "localhost";
-$DBUSER = "test";
-$DBPASSWORD = "12345678";
+$DBUSER = "root";
+$DBPASSWORD = "";
 $DBNAME = "db_users";
 
 
